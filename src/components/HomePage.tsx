@@ -113,7 +113,7 @@ export default function HomePage({ onNavigate }: HomePageProps) {
                         <div className="relative">
                             <div className="absolute inset-0 bg-gradient-to-r from-cyan-400 to-blue-500 rounded-full blur-2xl opacity-50 animate-pulse" />
                             <img
-                                src="assets/profile.jpg"
+                                src="assets/profile.png"
                                 alt="Profile"
                                 className="relative w-72 h-72 lg:w-96 lg:h-96 rounded-full object-cover border-4 border-gray-700 shadow-2xl hover:scale-105 transition-transform duration-300"
                             />
