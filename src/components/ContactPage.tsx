@@ -142,8 +142,7 @@ ${formData.message}
 
             <div className="space-y-4">
               {[
-                { icon: Mail, label: 'Email', value: 'your.email@example.com' },
-                { icon: Phone, label: 'Phone', value: '+1 (555) 123-4567' },
+                { icon: Mail, label: 'Email', value: 'zoirjonabdulloh@gmail.com' },
               ].map((item, index) => (
                 <div
                   key={item.label}
